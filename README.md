@@ -23,5 +23,5 @@ Using [Aldous-Broder Algorithm](https://en.wikipedia.org/wiki/Maze_generation_al
 
 |NxN|     Maze  | Possible solution |
 |------------|------------|-------------|
-|<h4>10x10</h4>| <img src="https://github.com/gsiddh4rtha/MazeGenerator/blob/master/samples/img/10.png?raw=true?raw=true" width="250"> | <img src="https://github.com/gsiddh4rtha/MazeGenerator/blob/master/samples/img/10_Solved.jpg?raw=true" width="250"> |
-|<h4>20x20</h4>| <img src="https://github.com/gsiddh4rtha/MazeGenerator/blob/master/samples/img/20.png?raw=true" width="250">| <img src="https://github.com/gsiddh4rtha/MazeGenerator/blob/master/samples/img/20_Solved.jpg?raw=true" width="250"> |
+|<h4>10x10</h4>| <img src="https://github.com/gsiddh4rtha/MazeGenerator/blob/main/samples/img/10.png?raw=true?raw=true" width="250"> | <img src="https://github.com/gsiddh4rtha/MazeGenerator/blob/main/samples/img/10_Solved.jpg?raw=true" width="250"> |
+|<h4>20x20</h4>| <img src="https://github.com/gsiddh4rtha/MazeGenerator/blob/main/samples/img/20.png?raw=true" width="250">| <img src="https://github.com/gsiddh4rtha/MazeGenerator/blob/main/samples/img/20_Solved.jpg?raw=true" width="250"> |
